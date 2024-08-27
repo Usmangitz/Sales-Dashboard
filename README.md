@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Madhav Sales Dashboard
+Sales Dashboard
