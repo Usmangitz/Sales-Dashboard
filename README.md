@@ -1,2 +1,2 @@
-# Sales-Dashboard
+# Blinkit-Dashboard
  Blinkit Sales Dashboard
